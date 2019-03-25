@@ -1,2 +1,0 @@
-# rides
-Created with CodeSandbox

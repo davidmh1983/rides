@@ -1,0 +1,55 @@
+$color-primary:#5F3ABB;
+$main-text: #19191B;
+$secondary-text: #67666A;
+$gradient-start: #A73CFF;
+$gradient-65-percent: #767CFF;
+$gradient-end: #3BBFFE;
+
+
+.ListItem{
+  flex-direction:row;
+  display:flex;
+  &__logo{
+    width:70px;
+  }
+  &__text{
+    &__title{
+      font-size:16px;
+      color: $main-text;
+    }
+    &__text{
+      font-size:12px;
+      color:$secondary-text;
+    }
+  }
+}
+.p20{
+  padding: 0 20px;
+}
+.fixed{
+  height:300px;
+}
+.Ride{
+  flex-direction:row;
+  display:flex;
+  justify-content:flex-end;
+  li{
+    padding-right:30px;
+    padding-left:30px;
+    border-right:2px solid $main-text;
+  }
+
+  li:nth-last-of-type(1){
+    border-right:0px;
+  } 
+}
+.RideType{
+  padding:15px;
+  &:hover{
+    border:1px solid red;
+  }
+}
+button{
+  padding:10px;
+  width:50%;
+}

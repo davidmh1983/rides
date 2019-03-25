@@ -1,0 +1,247 @@
+{
+  "destinations": [
+    {
+      "type": "city",
+
+      "structured_formatting": {
+        "name": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "city",
+
+      "structured_formatting": {
+        "name": "Barcelona",
+        "country": "Spain"
+      }
+    },
+
+    {
+      "type": "city",
+
+      "structured_formatting": {
+        "name": "Madrid",
+        "country": "Spain"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Menlo Park Division - VA Palo Alto Health Hospital",
+        "address": "Willow Road",
+        "city": "Menlo Park",
+        "state": "CA",
+        "postcode": "94025"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Menlo Park Library, Menlo Park, CA University",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Menlo Park Station, Merril Street, Menlo Park",
+        "address": "Menlo Park",
+        "city": "Menlo Park",
+        "state": "CA",
+        "postcode": "94000"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "The Langham",
+        "address": "Chicago Street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Four Seasons Resort Hualalai",
+        "address": "Huala lai",
+        "city": "Menlo Park"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "The Jefferson Hotel 5 stars, Menlo Park",
+        "address": "Chicago Street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Montage Kapalua Bay – Lahaina, Hawaii",
+        "address": "Lahaina",
+        "city": "Menlo Park"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "The Lodge at Sea Island – Sea Island",
+        "address": "Georgia, number 5",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Acqualina Resort & Spa on the Beach – Sunny Isles Beach",
+        "address": "Flo Rida street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "The Hay-Adams – Washington, D.C.",
+        "address": "Washington street 5, placed in a lonely corner of the street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Montage Deer Valley – Park City",
+        "address": "Utah street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Rancho Valencia Resort & Spa – Rancho Santa Fe",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Primland – Meadows of Dan, Virginia",
+        "address": "Virginia streett",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "The Peninsula Beverly Hills – Beverly Hills, California",
+        "address": "California street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Acqualina Resort & Spa on the Beach – Sunny Isles Beach",
+        "address": "Flo Rida street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Acqualina Resort & Spa on the Beach – Sunny Isles Beach",
+        "address": "Flo Rida street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Mandarin Oriental",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Four Seasons Resort Lanai – Lanai City",
+        "address": "We all love Hawaii",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "The Peninsula",
+        "address": "Chicago street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    },
+
+    {
+      "type": "location",
+
+      "structured_formatting": {
+        "name": "Acqualina Resort & Spa on the Beach – Sunny Isles Beach",
+        "address": "Flo Rida street",
+        "city": "Menlo Park",
+        "state": "CA"
+      }
+    }
+  ]
+}

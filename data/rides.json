@@ -1,0 +1,22 @@
+{
+  "rides": [
+    {
+      "type": "Standard",
+      "title": "City cat",
+      "price": "10.30€",
+      "time": "2:33-2:35 AM"
+    },
+    {
+      "type": "Special",
+      "title": "Alien-cats",
+      "price": "22.25€",
+      "time": "2:33-2:35 AM"
+    },
+    {
+      "type": "Special",
+      "title": "Handicapped",
+      "price": "35.30€",
+      "time": "2:33-2:35 AM"
+    }
+  ]
+}
